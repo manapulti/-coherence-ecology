@@ -1,0 +1,96 @@
+{
+  "generated_local": "2026-07-06T20:25:18-07:00",
+  "generated_utc": "2026-07-07T03:25:18Z",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "5000c63a9ca21874d1ce1492636036dcd5d47da2ac7d31f6034ab29037ba3127",
+      "bytes": 474
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "b2c93ae8033d1a92c559a6460a22381eba67105d3712c0935cd9698a9da8fb59",
+      "bytes": 417
+    },
+    {
+      "path": "README.md",
+      "sha256": "7de9e268c4132cbef646e1cd8835dd32732d30776e48b50556f48ae089da55c2",
+      "bytes": 3292
+    },
+    {
+      "path": "archive_manifest/archive_manifest_template.csv",
+      "sha256": "fba94bc93677e9290f5f6ed34d0a046f9418cde6814d94583043bab6d6fd2b77",
+      "bytes": 106
+    },
+    {
+      "path": "docs/claim_boundaries.md",
+      "sha256": "93b23af128fc89de1860cc5e7b19f2f4d44db6f77425c58dc99bf9b084d820d4",
+      "bytes": 1568
+    },
+    {
+      "path": "docs/coherence_ecology_overview.md",
+      "sha256": "f738ddb019310c0aed2d0d75186716de22d34e6651d914a1057650afeaf24f24",
+      "bytes": 1369
+    },
+    {
+      "path": "docs/jspace_bridge/jspace_bridge_table.md",
+      "sha256": "a3adf400e1e99c982447bf891bb794efb0517faaab90b5b45bcc3aeaf1a7ce63",
+      "bytes": 1504
+    },
+    {
+      "path": "docs/jspace_bridge/jspace_ce_bridge_note_v0_1.md",
+      "sha256": "c81e08cac5065d5d929652d4107c7e854cf0d25ee7c1c3523662fea4fcf4bb6d",
+      "bytes": 2868
+    },
+    {
+      "path": "experiments/README.md",
+      "sha256": "f6fc1e376cd60bab0bd77e193695a66ca7a422f8fd2887eb2f64e3620d32caaf",
+      "bytes": 636
+    },
+    {
+      "path": "ledger/hash_ledger_template.csv",
+      "sha256": "f13e8e4d0f2763e102398cb79a4c350375ce25e01c73bc674391da279aebb227",
+      "bytes": 810
+    },
+    {
+      "path": "ledger/provenance_ledger.md",
+      "sha256": "2366912465029733a49eaada900ab71c4ef4f5282505a19bf3e4a600a44b52d0",
+      "bytes": 2584
+    },
+    {
+      "path": "ledger/release_checklist.md",
+      "sha256": "f36173e3ede3a93bbf0688cfd6c38dfd0a0ed43cbdef86cae7d3ee8bb64e6460",
+      "bytes": 783
+    },
+    {
+      "path": "ledger/source_ledger.md",
+      "sha256": "3a7242790197cbc35c649a1bf7cb22d7e76dae10586f4155d30b2bb399e1ab49",
+      "bytes": 1327
+    },
+    {
+      "path": "maps/chronology_map.md",
+      "sha256": "8336d59ddae620fe5176d4239b1465c1d54323a4e0d2a58235b684e490bd50a1",
+      "bytes": 1951
+    },
+    {
+      "path": "maps/layer_separation_map.md",
+      "sha256": "780f5dbe686175209027f0c5f6e149bf5400bfedfb63d936793cf73bb72a347a",
+      "bytes": 1148
+    },
+    {
+      "path": "templates/artifact_header_template.md",
+      "sha256": "b724f4ccc7f36da79c5d56e8da1ec64746ca16b75c33dcf4090ba3041af2d9e7",
+      "bytes": 517
+    },
+    {
+      "path": "templates/claim_status_key.md",
+      "sha256": "7f97a86aafea2ae3210a8eb170125bea88c898ef0af06d8d7198b2e27a2c4145",
+      "bytes": 426
+    },
+    {
+      "path": "templates/evidence_entry_template.md",
+      "sha256": "e3f5c0841597bd49e25ba138239be83ee675e2a574074f7ce90bf2e257a49f07",
+      "bytes": 525
+    }
+  ]
+}

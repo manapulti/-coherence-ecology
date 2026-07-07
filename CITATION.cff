@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Coherence Ecology Research Bridge"
+message: "If you cite this repository, please cite Anthony Barlow as author/steward."
+type: dataset
+authors:
+  - family-names: "Barlow"
+    given-names: "Anthony"
+date-released: "2026-07-06"
+version: "0.1.0-provenance-scaffold"
+abstract: "A provenance scaffold and research bridge for Coherence Ecology, including layer-separated comparison with Anthropic's July 2026 Jacobian Lens / Global Workspace findings."
